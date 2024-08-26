@@ -7,3 +7,7 @@ As an example: A tap's limit is 3L per month. When it completes 3L, it shuts the
 This system runs by ESP32, saves the tap water datas to the Firebase database system. And the ESP32 module was programmed by Arduino IDE Software.
 
 Also you can see the tap water datas at the android application. This aplication was made by App Inventor.
+
+## Arduino IDE Libraries:
+**FirebaseESP32.h:** https://github.com/mobizt/Firebase-ESP32/
+**LiquidCrystal_I2C.h:**: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
