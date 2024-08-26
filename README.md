@@ -9,5 +9,7 @@ This system runs by ESP32, saves the tap water datas to the Firebase database sy
 Also you can see the tap water datas at the android application. This aplication was made by App Inventor.
 
 ## Arduino IDE Libraries:
-**FirebaseESP32.h:** https://github.com/mobizt/Firebase-ESP32/
-**LiquidCrystal_I2C.h:**: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+**FirebaseESP32.h:** https://github.com/mobizt/Firebase-ESP32<br>
+**LiquidCrystal_I2C.h:**: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library<br>
+**RTClib.h:** https://github.com/adafruit/RTClib<br>
+**NTPClient.h:** https://github.com/arduino-libraries/NTPClient<br>
